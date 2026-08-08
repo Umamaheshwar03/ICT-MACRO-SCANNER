@@ -1,22 +1,22 @@
-# 🚀 ICT MACRO SCANNER - START HERE
+#  ICT MACRO SCANNER - START HERE
 
-## ✅ Complete Project Delivered
+## Complete Project Delivered
 
 Your professional trading bot project is **100% complete** and ready for your CV portfolio.
 
 ---
 
-## 📦 What You Got
+## What You Got
 
 A **production-grade Python trading system** with:
 
-✅ **Core Analysis Engine** (2,500+ lines)
+**Core Analysis Engine** (2,500+ lines)
 - Swing detection algorithm
 - ICT Price Delivery array identification
 - Hourly macro (:50-:10) analysis
 - Statistical confidence scoring
 
-✅ **Live Trading Scanner**
+**Live Trading Scanner**
 - Real-time market monitoring (async I/O)
 - Multi-exchange support (CCXT - 20+ exchanges)
 - Active signal tracking
@@ -28,7 +28,7 @@ A **production-grade Python trading system** with:
 - Risk-adjusted analysis
 - Detailed reporting
 
-✅ **Complete Documentation**
+**Complete Documentation**
 - 5-minute setup guide
 - 10+ code examples
 - Architecture overview
@@ -37,7 +37,7 @@ A **production-grade Python trading system** with:
 
 ---
 
-## 🎯 Project Highlights
+## Project Highlights
 
 ### Quantitative Edge Validated
 From 10 years of market data:
@@ -62,11 +62,11 @@ From 10 years of market data:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ICT_MACRO_SCANNER/
-├── 📖 Documentation (read these first)
+├── Documentation (read these first)
 │   ├── START_HERE.md              ← You are here
 │   ├── GETTING_STARTED.md         ← Setup in 5 minutes
 │   ├── README.md                  ← Full overview
@@ -78,11 +78,11 @@ ICT_MACRO_SCANNER/
 │   ├── requirements.txt           ← Python dependencies
 │   └── .gitignore                 ← Git configuration
 │
-├── 🚀 Entry Points
+├──  Entry Points
 │   ├── main.py                    ← Live scanner (python main.py)
 │   └── backtest_runner.py         ← Backtester (python backtest_runner.py)
 │
-└── 📂 Core Modules (2,500+ LOC)
+└──  Core Modules (2,500+ LOC)
     ├── core/                      ← Analysis engine
     │   ├── swing_detector.py
     │   ├── ict_pd_arrays.py
@@ -166,7 +166,7 @@ python main.py --symbols BTC/USDT ETH/USDT SOL/USDT XRP/USDT
 
 ---
 
-## 💼 Using for Your CV
+##  Using for Your CV
 
 ### 1. Upload to GitHub
 ```bash
@@ -358,21 +358,19 @@ A: For scanning/backtesting, yes. For live trading, add broker integration and r
 - [ ] Implement Discord alerts
 - [ ] Build web dashboard
 
----
-
-## 🎉 You're All Set!
+--
 
 This is a **complete, professional-grade project** ready for:
-- 💼 GitHub portfolio showcase
-- 🎓 Technical job interviews
-- 📊 Quantitative trading applications
-- 🔬 Financial research
+-  GitHub portfolio showcase
+-  Technical job interviews
+-  Quantitative trading applications
+-  Financial research
 
 **Everything you need is here. Start with `GETTING_STARTED.md`.**
 
 ---
 
-## 📞 Quick Reference
+## Quick Reference
 
 | Need | Read |
 |------|------|
@@ -386,9 +384,7 @@ This is a **complete, professional-grade project** ready for:
 
 ---
 
-**Happy trading! 🚀**
 
-*This is a production-ready project. The strategy is validated but remember: past performance ≠ future results.*
 
 ---
 
@@ -400,4 +396,4 @@ This is a **complete, professional-grade project** ready for:
 - 1,500+ lines of documentation
 - Enterprise-grade architecture
 
-**Status: ✅ Ready to Deploy**
+
