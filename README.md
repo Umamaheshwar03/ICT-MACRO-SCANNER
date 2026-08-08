@@ -195,10 +195,4 @@ By Hour:
 
 This project is based on 10-year quantitative analysis of NQ futures (2016-2026), validating the statistical edge of hourly macro delivery timing.
 
-## License
-
-MIT
-
----
-
 **Author Note**: This project demonstrates advanced financial analysis, real-time data processing, and production trading system architecture. It's designed to showcase competency in Python, finance, software engineering, and quantitative research.
