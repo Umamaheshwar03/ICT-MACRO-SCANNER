@@ -357,10 +357,10 @@ while True:
 
 ## Next Steps
 
-1. ✓ Run single scan to test setup
-2. ✓ Backtest on historical data to validate strategy
-3. ✓ Run live scanner during macro windows
-4. ✓ Track signals and real-world performance
-5. → Optimize based on results
-6. → Add higher-timeframe confluence filters
-7. → Integrate with broker API for automated trading
+1.  Run single scan to test setup
+2.  Backtest on historical data to validate strategy
+3.  Run live scanner during macro windows
+4.  Track signals and real-world performance
+5.  Optimize based on results
+6.  Add higher-timeframe confluence filters
+7.  Integrate with broker API for automated trading
