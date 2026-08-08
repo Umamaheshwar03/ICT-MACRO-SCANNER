@@ -351,7 +351,7 @@ It's more than a trading strategy - it's a **professional software engineering p
 
 ---
 
-**Author**: [Your Name]  
-**Created**: 2024  
+**Author**: [LODE UMA MAHESHWAR]  
+**Created**: 2026  
 **Status**: Production-Ready  
 **License**: MIT
