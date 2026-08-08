@@ -1,4 +1,4 @@
-# ICT Hourly Macro Scanner 🎯
+# ICT Hourly Macro Scanner 
 
 A production-ready Python trading bot that identifies ICT Price Delivery arrays within hourly macros (50-10 windows). Scans real-time market data, detects high-probability setups, and logs actionable signals.
 
