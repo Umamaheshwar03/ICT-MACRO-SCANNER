@@ -5,7 +5,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/ict-macro-scanner.git
+git clone https://github.com/Umamaheshwar03/ict-macro-scanner.git
 cd ict-macro-scanner
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
